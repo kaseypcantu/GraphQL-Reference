@@ -1,0 +1,12 @@
+{
+  "name": "salesforce-graphql",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "apollo-server": "^2.12.0"
+  }
+}
